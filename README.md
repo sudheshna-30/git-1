@@ -21,5 +21,10 @@ git commands used :
 commit History:
 <img width="149" alt="task-1" src="https://github.com/user-attachments/assets/bc7f0d58-9cc6-4a56-a004-b7dafed15491" />
 
-
+Task-2 :
 Now we entered into the feature branch
+GitHub repository Link - https://github.com/dashboard
+Pull Request Merge:
+![merge_pullrequest](https://github.com/user-attachments/assets/8fb46563-5481-4fb0-9607-f296d21c3a9e)
+
+
