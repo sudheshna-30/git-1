@@ -26,5 +26,6 @@ Now we entered into the feature branch
 GitHub repository Link - https://github.com/dashboard
 Pull Request Merge:
 ![merge_pullrequest](https://github.com/user-attachments/assets/8fb46563-5481-4fb0-9607-f296d21c3a9e)
+<img width="142" alt="task-2(1)" src="https://github.com/user-attachments/assets/097a3499-0cf2-4155-a4d1-3488c37c5367" />
 
 
