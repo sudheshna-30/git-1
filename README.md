@@ -17,3 +17,8 @@ git commands used :
 3.'git commit -m'
 4.'git log'
 5.'git diff'
+
+commit History:
+<img width="149" alt="task-1" src="https://github.com/user-attachments/assets/bc7f0d58-9cc6-4a56-a004-b7dafed15491" />
+
+
